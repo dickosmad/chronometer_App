@@ -1,0 +1,1 @@
+- Tabular-nums : to conserve the size in tailwind
